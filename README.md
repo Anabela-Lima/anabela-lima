@@ -30,9 +30,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/anabela-lima/"><img alt="Ana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabela-lima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages reflect the primary languages used in my code
-<!--
-**anabela-lima/anabela-lima** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
+   
 <br/>
 <br/>
 
@@ -40,6 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <br/>
+<!--
+**anabela-lima/anabela-lima** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 Here are some ideas to get you started:
