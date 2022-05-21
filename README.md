@@ -1,6 +1,6 @@
 
 ### Hi there, I am Ana!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn] https://www.linkedin.com/in/ana-bela-lima-201050205/
+
 ---
 - 👩🏽‍💻 Interested in all things Tech and Engineering
 - 🖥 Training to become a full Stack Software Engineer
