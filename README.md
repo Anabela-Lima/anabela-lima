@@ -24,7 +24,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git logo" width ="50" height ="50"/>
   </div>
 ---
-## :bar_chart: My Github Stats
+### :bar_chart: My Github Stats
+
 <br/>
     <a href="https://github.com/anabela-lima/"><img alt="Ana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anabela-lima&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/anabela-lima/"><img alt="Ana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabela-lima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
