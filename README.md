@@ -34,6 +34,17 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <b>Note:</b> Top languages reflect the primary languages used in my code
  
+  
+   
+<br/>
+<br/>
+
+<a href="https://github.com/anabela-lima/"><img alt="Ana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anabela-lima&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+
 
 <!--
 **anabela-lima/anabela-lima** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
