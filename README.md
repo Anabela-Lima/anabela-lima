@@ -3,7 +3,7 @@
 
 ---
 - 👩🏽‍💻 Interested in all things Tech and Engineering
-- 🖥 Training to become a full Stack Software Engineer
+- 🖥 Full Stack Software Engineer 
 - 💞 Love to create, network and collaborate
 - 📪 How to reach me : A.blima@outlook.com
 ---
